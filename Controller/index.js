@@ -1,7 +1,7 @@
-import WetaherController from './weaherController.js'
+import WeatherController from './weatherController.js'
 
 
 
 export{
-    WetaherController
+    WeatherController
 }

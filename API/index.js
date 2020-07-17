@@ -1,4 +1,4 @@
-import WeatherApi from './wetaherApi.js'
+import WeatherApi from './weatherApi.js'
 
 export{
     WeatherApi

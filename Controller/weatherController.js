@@ -1,6 +1,6 @@
 class WeatherController{
-    constructor(weatheroperation){
-        this.weatheroperation = weatheroperation
+    constructor(weatherOperation){
+        this.weatherOperation = weatherOperation
     }
 
     getWeather = () =>{
